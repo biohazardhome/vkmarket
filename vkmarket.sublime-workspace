@@ -1,0 +1,1171 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"La",
+				"LaravelComponentBootload"
+			],
+			[
+				"co",
+				"commands"
+			],
+			[
+				"P",
+				"Positions〔namespace〕"
+			],
+			[
+				"Serv",
+				"Service	(Pool.php)"
+			],
+			[
+				"Posit",
+				"Positions	(PoolHandler.php)"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"array_un",
+				"array_unshift〔function〕"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"qu",
+				"queueData"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"call_",
+				"call_user_func_array〔function〕"
+			],
+			[
+				"meth",
+				"method_exists〔function〕"
+			],
+			[
+				"bre",
+				"break	(SerpPositionProjects.php)"
+			],
+			[
+				"add",
+				"addPeriodicTimer	(Pool.php)"
+			],
+			[
+				"ob",
+				"object-fit"
+			],
+			[
+				"SALE_P",
+				"SALE_PERCENT	(component 2.php)"
+			],
+			[
+				"PROPET",
+				"PROPERTY_DATA"
+			],
+			[
+				"arSa",
+				"arSaleDate"
+			],
+			[
+				"var",
+				"var_dump	(php.php)"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"seri",
+				"serialize	(Queue.php)"
+			],
+			[
+				"jo",
+				"jobCreated"
+			],
+			[
+				"data",
+				"database	(DatabaseQueue.php)"
+			],
+			[
+				"getData",
+				"getDatabase	(DatabaseQueue.php)"
+			],
+			[
+				"S",
+				"Support〔namespace〕"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"html",
+				"html_entity_decode〔function〕"
+			],
+			[
+				"htmlen",
+				"htmlspecialchars_decode〔function〕"
+			],
+			[
+				"p",
+				"priority"
+			],
+			[
+				"deleteF",
+				"deleteForeign"
+			],
+			[
+				"eurog",
+				"eurogranite	(Доступы.txt)"
+			],
+			[
+				"dele",
+				"delegator"
+			],
+			[
+				"gr",
+				"group_id"
+			],
+			[
+				"project_",
+				"project_group	(Group.php)"
+			],
+			[
+				"exi",
+				"exists	(index.blade.php)"
+			],
+			[
+				"coo",
+				"coordinates"
+			],
+			[
+				"pro",
+				"promises"
+			],
+			[
+				"my",
+				"myGeocoder"
+			],
+			[
+				"ro",
+				"route	(item-address.blade.php)"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"preg_",
+				"preg_match('#^serp	(Parse.php)"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"for",
+				"forin	for … in … done"
+			],
+			[
+				"quer",
+				"queriesGroup"
+			],
+			[
+				"sortBy",
+				"sortByDesc"
+			],
+			[
+				"IBLOCK",
+				"IBLOCK_ID	(footer.php)"
+			],
+			[
+				"func_",
+				"func_get_args〔function〕"
+			],
+			[
+				"puk",
+				"pluck"
+			],
+			[
+				"htmls",
+				"htmlspecialchars	(index.php)"
+			],
+			[
+				"func_get_a",
+				"func_get_arg〔function〕"
+			],
+			[
+				"var_d",
+				"var_dump"
+			],
+			[
+				"reques",
+				"requestData"
+			],
+			[
+				"SearchEngine",
+				"SearchEnginePositions	(Сделать.txt)"
+			],
+			[
+				"sea",
+				"searchEngine"
+			],
+			[
+				"serp",
+				"serp_yandex"
+			],
+			[
+				"cs",
+				"csrf_token	(index.blade.php)"
+			],
+			[
+				"ret",
+				"ret1	return true"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"cop",
+				"copy	(QueryController.php)"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/positions/app/Jobs/SerpPositionProjects.php",
+		"/var/www/positions/My/helpers.php",
+		"/var/www/positions/My/Command/QueryCreateCommand.php",
+		"/var/www/positions/app/Console/Commands/SERPPositionServer.php",
+		"/var/www/positions/app/Console/Commands/SERPPosition.php",
+		"/var/www/positions/resources/views/project/query/query.blade.php",
+		"/var/www/positions/resources/views/project/query/index.blade.php",
+		"/var/www/positions/My/SearchEngine/Yandex/Parse.php",
+		"/var/www/positions/app/Http/Controllers/Project/Query/QueryController.php",
+		"/var/www/positions/Service/SearchEnginePositions.php",
+		"/var/www/positions/Service/Queue/Test.php",
+		"/var/www/positions/Service/Tasks.php",
+		"/var/www/positions/Service/Queue/Task.php",
+		"/var/www/positions/Service/Queue/Queue.php",
+		"/var/www/positions/Service/Queue/Server.php",
+		"/var/www/positions/Service/Positions/Stream.php",
+		"/var/www/positions/Service/Positions/Server.php",
+		"/var/www/positions/Service/Positions/PoolHandler.php",
+		"/var/www/positions/Service/Positions/Pool.php",
+		"/var/www/positions/app/Http/routes.php",
+		"/var/www/positions/Сделать.txt",
+		"/home/biohazard/Рабочий стол/php7.php",
+		"/home/biohazard/Рабочий стол/php.php",
+		"/home/biohazard/Рабочий стол/Доступы.txt",
+		"/home/biohazard/Рабочий стол/План на день.txt",
+		"/home/biohazard/Рабочий стол/Чем заняться.txt",
+		"/home/biohazard/Рабочий стол/didrik/VK/saveImages.php",
+		"/home/biohazard/Рабочий стол/Linux/nano.txt",
+		"/home/biohazard/Рабочий стол/callback.php",
+		"/home/biohazard/Рабочий стол/vkmarket.txt",
+		"/home/biohazard/Рабочий стол/didrik/VK/vk.php",
+		"/home/biohazard/Рабочий стол/fritzing-0.9.3b.linux.AMD64/Fritzing",
+		"/home/biohazard/Рабочий стол/didrik/didrik.txt",
+		"/home/biohazard/Рабочий стол/didrik/didrik.js",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/awtonomka/data/www/awtonomka.ru/bitrix/otp/ws/index.php",
+		"/home/biohazard/Рабочий стол/Linux/images.txt",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/moykkat/data/www/moykkat.ru/pdd-online/index.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/ooo-ines/data/www/ooo-ines.ru/bitrix/templates/MAIN/footer.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/components/fler/reviews/class.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/components/fler/main.reviews/class.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/components/fler/reviews/templates/.default/template.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/header.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/styles.css",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/components/fler/main.reviews/templates/.default/template.php",
+		"/var/www/positions/vendor/phpspec/phpspec/spec/PhpSpec/Formatter/JUnitFormatterSpec.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/js/script.js",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/templates/main/styles.css",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/components/fler/main.employee/templates/.default/template.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/vse-v-podarok/data/www/vse-v-podarok.ru/local/templates/main/css/style.css",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/components/fler/photogallery.section.list/templates/.default/template.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/components/fler/photogallery.section.detail/templates/.default/template.php",
+		"/run/user/1000/gvfs/sftp:host=78.110.60.119/var/www/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/js/jquery.fancybox.pack.js",
+		"/var/www/positions/app/Http/Controllers/Test/QueryController.php",
+		"/var/www/positions/Service/LaravelComponentBootload.php",
+		"/var/www/positions/Service/Positions/DataHandler.php",
+		"/run/user/1000/gvfs/sftp:host=ssh-srv67145.ht-systems.ru/home/srv67145/htdocs/bitrix/bitrix.eshop.old/install/version.php",
+		"/run/user/1000/gvfs/sftp:host=ssh-srv67145.ht-systems.ru/home/srv67145/htdocs/bitrix/bitrix.eshop.old/include.php",
+		"/run/user/1000/gvfs/sftp:host=ssh-srv67145.ht-systems.ru/home/srv67145/AntivirusReport.txt",
+		"/home/biohazard/Рабочий стол/Linux/pdf.txt",
+		"/home/biohazard/Рабочий стол/Bitrix/Bitrix.txt",
+		"/home/biohazard/Рабочий стол/Linux.txt",
+		"/home/biohazard/Рабочий стол/Linux/User/Commands.txt",
+		"/home/biohazard/Рабочий стол/Linux/sshfs.txt",
+		"/home/biohazard/Рабочий стол/Linux/ssh.txt",
+		"/var/www/positions/app/Http/Controllers/ProjectController.php",
+		"/var/www/positions/composer.json",
+		"/var/www/positions/app/Listeners/EventListener.php",
+		"/home/biohazard/.ssh/known_hosts",
+		"/home/biohazard/.ssh/config",
+		"/home/biohazard/.ssh/authorized_keys",
+		"/media/biohazard/optimo/fransdesign/data/www/fransdesign.ru/bitrix/components/bio/faktury/templates/.default/template.php",
+		"/media/biohazard/optimo/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/header.php",
+		"/media/biohazard/optimo/gaz-auto-service/data/www/gaz-auto-service.ru/bitrix/templates/MAIN/styles.css",
+		"/tmp/fz3temp-2/template 3.php",
+		"/tmp/fz3temp-2/template 7.php",
+		"/tmp/fz3temp-2/component 8.php",
+		"/tmp/fz3temp-2/styles.css",
+		"/tmp/fz3temp-2/template 6.php",
+		"/tmp/fz3temp-2/.left.menu.php",
+		"/tmp/fz3temp-2/template 5.php",
+		"/tmp/fz3temp-2/header.php",
+		"/tmp/fz3temp-2/component 5.php",
+		"/var/www/avto-services/database/migrations/2016_06_13_082810_create_images_table.php",
+		"/tmp/fz3temp-2/component 6.php",
+		"/tmp/fz3temp-2/template 4.php",
+		"/tmp/fz3temp-2/component 7.php",
+		"/tmp/fz3temp-2/style.css",
+		"/tmp/fz3temp-2/mail.txt",
+		"/home/biohazard/Рабочий стол/Электроника/Передача данных/SPI.txt",
+		"/home/biohazard/Рабочий стол/Электроника/Интересные МК.txt",
+		"/home/biohazard/Рабочий стол/Электроника/Интернет вещи.txt",
+		"/home/biohazard/Рабочий стол/Электроника/Электрик.txt",
+		"/home/biohazard/Рабочий стол/Электроника/UART.txt",
+		"/home/biohazard/Рабочий стол/Электроника/Raspberry.txt",
+		"/var/www/positions/Service/Positions/Busy.php",
+		"/var/www/positions/Service/Positions/Pingator.php",
+		"/var/www/positions/Service/Positions/Client.php",
+		"/tmp/fz3temp-2/component.php",
+		"/tmp/fz3temp-2/fence.php",
+		"/tmp/fz3temp-2/template 2.php",
+		"/tmp/fz3temp-2/component 4.php",
+		"/tmp/fz3temp-2/import 2.php",
+		"/tmp/fz3temp-2/template.php",
+		"/tmp/fz3temp-2/component 3.php",
+		"/tmp/fz3temp-2/component 2.php",
+		"/tmp/fz3temp-2/import.php",
+		"/home/biohazard/Рабочий стол/Linux/Bash/watermark.sh",
+		"/home/biohazard/Рабочий стол/images.txt",
+		"/home/biohazard/Рабочий стол/bash.sh",
+		"/home/biohazard/Рабочий стол/Фото технолидер/bash.sh",
+		"/var/www/positions/Service/Positions/DataMonitoringParser.php",
+		"/var/www/positions/Service/Positions/DataParser.php",
+		"/var/www/positions/Service/Positions/ClientTest.php",
+		"/var/www/positions/app/Commands/PositionsProjects.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/template.php",
+		"/tmp/fz3temp-1/robots.txt",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/.left.menu.php",
+		"/tmp/fz3temp-1/.htaccess 2",
+		"/tmp/fz3temp-1/robots 2.txt",
+		"/tmp/fz3temp-1/.section.php",
+		"/home/biohazard/Рабочий стол/16-ti-etazhnyy-zhiloy-dom/.section.php",
+		"/tmp/fz3temp-1/.left.menu 3.php",
+		"/home/biohazard/Рабочий стол/16-ti-etazhnyy-zhiloy-dom/index.php",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/.left.menu 2.php",
+		"/home/biohazard/Рабочий стол/.left.menu.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aw",
+			"text-slid-bottom",
+			"section4",
+			"section4 ",
+			".section4 ",
+			"fancy",
+			".header_right .call_order",
+			"order",
+			"command",
+			"1335",
+			"getTask",
+			"1335",
+			"QUEUE_PORT",
+			"Exception",
+			"server",
+			";\n",
+			"srv67145",
+			"7xhR9KkJ",
+			"1mM76XNe",
+			"ht",
+			"ht75404",
+			"1mM76XNe",
+			"R7b5H7o3",
+			"didri",
+			"maxsi",
+			"7xhR9KkJ",
+			"3",
+			"EMPTY_COUNT",
+			"defaultPort",
+			"Акселератор",
+			"body",
+			"R7b5H7o3",
+			"линия",
+			"monitoringServers",
+			"monitoring",
+			"Stream(",
+			"Stream",
+			"project_queries_new",
+			");\n",
+			"google",
+			"Stream",
+			"projectId",
+			"engine",
+			"R7b5H7o3",
+			"var_dump",
+			"echo",
+			"ping",
+			"();\n",
+			"busy",
+			"dump(",
+			"close()",
+			");\n",
+			"dump(",
+			"wlan0",
+			"strict-order",
+			"server=",
+			"address=",
+			"address",
+			"domain=",
+			"NXDOMAIN",
+			"domain",
+			"list-object-text",
+			"v-prodazhe",
+			"$arSale",
+			"arDiscounts",
+			"arSaleDate",
+			"OFFERS",
+			"discount_lifetime_box",
+			"didrik",
+			"14011989",
+			"queryParams",
+			"findOn",
+			"type",
+			"silk2",
+			"silk",
+			"silk5",
+			"discount",
+			"Discount",
+			"discount",
+			"SECTION_SALE",
+			"discount",
+			" discount",
+			" $",
+			"SECTION_SALE",
+			"discount_lifetime_box",
+			"ContentType",
+			"QueryToJson",
+			"QueryToArray",
+			"objectTy",
+			"CurrencyTable",
+			"DateTime",
+			"Collection",
+			"discount",
+			"discount_lifetime_box",
+			"discount_lifetime_caption",
+			"head",
+			"template",
+			"saleDate",
+			"thisElemSale",
+			"arDiscountIDs",
+			"arDiscounts",
+			"SECTION_SALE",
+			"discount_lifetime_box",
+			"CUR_OFFER",
+			"disc",
+			"CUR_OFFER",
+			"discount_lifetime_box",
+			"echo",
+			"dump",
+			"dd",
+			"');\n",
+			"jobCreated",
+			"getJobCreated",
+			"update",
+			"projects",
+			"seri",
+			"json_decode",
+			"container",
+			"ddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+			"fire",
+			"table",
+			"dd",
+			"getDatabase",
+			"job->id",
+			"buildDatabaseRecord",
+			"getDatabaseJob",
+			"get",
+			"getNextAvailableJob"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sdannye",
+			"",
+			"=>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/User/php-build.sublime-build",
+	"project": "vkmarket.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"vendor/phpspec/phpspec/spec/PhpSpec/Formatter/JUnitFormatterSpec.php"
+			],
+			[
+				"querycon",
+				"app/Http/Controllers/Project/Query/QueryController.php"
+			],
+			[
+				"queryc",
+				"app/Http/Controllers/Test/QueryController.php"
+			],
+			[
+				"help",
+				"My/helpers.php"
+			],
+			[
+				"querycreatecommand",
+				"My/Command/QueryCreateCommand.php"
+			],
+			[
+				"projectc",
+				"app/Http/Controllers/ProjectController.php"
+			],
+			[
+				"query/index.bl",
+				"resources/views/project/query/index.blade.php"
+			],
+			[
+				"query.b",
+				"resources/views/project/query/query.blade.php"
+			],
+			[
+				"parse",
+				"My/SearchEngine/Yandex/Parse.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"client",
+				"Service/Positions/Client.php"
+			],
+			[
+				"searchenginepositions",
+				"Service/SearchEnginePositions.php"
+			],
+			[
+				"group",
+				"My/Model/Group.php"
+			],
+			[
+				"project",
+				"My/Model/Project.php"
+			],
+			[
+				"selec",
+				"resources/views/project/query/group/select-tree.blade.php"
+			],
+			[
+				"group/edit",
+				"resources/views/admin/project/query/group/edit.blade.php"
+			],
+			[
+				"groupcon",
+				"app/Http/Controllers/Project/Query/GroupController.php"
+			],
+			[
+				"collection",
+				"vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+			],
+			[
+				"query",
+				"My/Model/Query.php"
+			],
+			[
+				"illuminate/queue",
+				"vendor/laravel/framework/src/Illuminate/Queue/Queue.php"
+			],
+			[
+				"serpposi",
+				"app/Jobs/SerpPositionProjects.php"
+			],
+			[
+				"mac",
+				"My/macros.php"
+			],
+			[
+				"query/create",
+				"resources/views/admin/project/query/create.blade.php"
+			],
+			[
+				"queryc/reate",
+				"resources/views/project/query/group/create.blade.php"
+			],
+			[
+				"groupcreate",
+				"resources/views/project/query/group/create.blade.php"
+			],
+			[
+				"admin/project/query/create",
+				"resources/views/admin/project/query/create.blade.php"
+			],
+			[
+				"project/query/cre",
+				"resources/views/admin/project/query/create.blade.php"
+			],
+			[
+				"project/query/group/",
+				"resources/views/admin/project/query/group/edit.blade.php"
+			],
+			[
+				"query/group",
+				"resources/views/project/query/group.blade.php"
+			],
+			[
+				"project/query/gro",
+				"resources/views/project/query/group/create.blade.php"
+			],
+			[
+				"edit",
+				"app/Http/Controllers/Project/Query/EditController.php"
+			],
+			[
+				"request",
+				"My/SearchEngine/Google/Request.php"
+			],
+			[
+				"html",
+				"vendor/illuminate/html/HtmlBuilder.php"
+			],
+			[
+				"positi",
+				"My/SearchEngine/PositionApi.php"
+			],
+			[
+				"helper",
+				"My/helpers.php"
+			],
+			[
+				"projectcont",
+				"app/Http/Controllers/ProjectController.php"
+			],
+			[
+				"str",
+				"vendor/laravel/framework/src/Illuminate/Support/Str.php"
+			],
+			[
+				"api",
+				"My/SearchEngine/PositionApi.php"
+			],
+			[
+				"query/group/edit",
+				"resources/views/admin/project/query/group/edit.blade.php"
+			],
+			[
+				"groupco",
+				"app/Http/Controllers/Project/Query/GroupController.php"
+			],
+			[
+				"cookie",
+				"vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php"
+			],
+			[
+				"symforequest",
+				"vendor/symfony/http-foundation/Request.php"
+			],
+			[
+				"macr",
+				"My/macros.php"
+			],
+			[
+				"arr",
+				"vendor/laravel/framework/src/Illuminate/Support/Arr.php"
+			],
+			[
+				"project/query/qu",
+				"resources/views/project/query/query.blade.php"
+			],
+			[
+				"compet",
+				"app/Http/Controllers/Project/Query/CompetitorsController.php"
+			],
+			[
+				"serp",
+				"app/Console/Commands/SERPPositionServer.php"
+			],
+			[
+				"querygroup",
+				"resources/views/project/query/group.blade.php"
+			],
+			[
+				"queryquer",
+				"resources/views/project/query/query.blade.php"
+			],
+			[
+				"ser-li",
+				"resources/views/project/query/competitors/serp-list.blade.php"
+			],
+			[
+				"project/query/competitors/serp",
+				"resources/views/project/query/competitors/serp.blade.php"
+			],
+			[
+				"querygroupcre",
+				"resources/views/project/query/group/create.blade.php"
+			],
+			[
+				"search",
+				"Services/SearchEnginePositions.php"
+			],
+			[
+				"projcre",
+				"resources/views/admin/project/query/create.blade.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"app.",
+				"bootstrap/app.php"
+			],
+			[
+				"sele",
+				"resources/views/project/select.blade.php"
+			],
+			[
+				"project/query/edit",
+				"resources/views/admin/project/query/edit.blade.php"
+			],
+			[
+				"editco",
+				"app/Http/Controllers/Project/Query/EditController.php"
+			],
+			[
+				"querycontr",
+				"app/Http/Controllers/Test/QueryController.php"
+			],
+			[
+				"queryeditcont",
+				"app/Http/Controllers/Admin/Query/QueryEditController.php"
+			],
+			[
+				"queryquery",
+				"resources/views/project/query/query.blade.php"
+			],
+			[
+				"queryinde",
+				"resources/views/project/query/index.blade.php"
+			],
+			[
+				"query_pr",
+				"database/migrations/2016_04_26_184132_create_query_priority_table.php"
+			],
+			[
+				"projectquerycompetitorsindex",
+				"resources/views/project/query/competitors/index.blade.php"
+			],
+			[
+				"sear",
+				"Services/SearchEnginePositions.php"
+			],
+			[
+				"projec",
+				"My/Model/Project.php"
+			],
+			[
+				"uerycompetitorsserp",
+				"resources/views/project/query/competitors/serp.blade.php"
+			],
+			[
+				"querycompetitorsindex",
+				"resources/views/project/query/competitors/index.blade.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"querycompetitorsserp",
+				"resources/views/project/query/competitors/serp.blade.php"
+			],
+			[
+				"compett",
+				"app/Http/Controllers/Project/Query/CompetitorsController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/avto-services/avto-services.sublime-project"
+			],
+			[
+				"\\",
+				"/var/www/avto-services/avto-services.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
